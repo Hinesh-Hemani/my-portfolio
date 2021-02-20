@@ -48,7 +48,7 @@ line-height: 5rem;
 }
 #active{
     margin-left: -30px;
-    color: #fff;
+    color: #fff !important;
     border-bottom: 2px solid #18d26e;
 }
 #nav-item a{
